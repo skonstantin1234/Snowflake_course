@@ -1,5 +1,7 @@
 import streamlit
 
-streamlit.title('My Streamlit and Snowflake Environments')
-streamlit.header('My Menu')
-streamlit.text('One way')
+streamlit.title('My Perants New Healthy Diner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
